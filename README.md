@@ -27,8 +27,9 @@
 
   ## Usage
   Screenshot + deployed app link is below...
-  ![Screenshot](./client/src/images/Screenshot.png)
- ### Link deployed application (https://j-a-t-e-mmph.onrender.com)
+  ![Screenshot](./client/src/assets/Screenshot.png)
+  ![GIF](./client/src/assets/GIF.gif)
+ ### Link deployed application (https://booksearchengine-21ux.onrender.com)
 
 
   ## Licenses
