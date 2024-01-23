@@ -26,7 +26,7 @@
 
 
   ## Usage
-  Screenshot + deployed app link is below...
+  Screenshot, GIF + deployed app link is below...
   ![Screenshot](./client/src/assets/Screenshot.png)
   ![GIF](./client/src/assets/GIF.gif)
  ### Link deployed application (https://booksearchengine-21ux.onrender.com)
